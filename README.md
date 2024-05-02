@@ -37,7 +37,7 @@ URL https://www.nature.com/articles/s41467-020-17419-7
 Use `python > 3.6` and install the requirements:
 
 ```
-pip install -r requiurements.txt
+pip install -r requirements.txt
 ```
 
 ## Running
